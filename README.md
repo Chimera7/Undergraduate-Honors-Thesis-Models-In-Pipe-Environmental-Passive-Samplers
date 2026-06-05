@@ -7,7 +7,9 @@
 
 ## 🎉 Free to Download!
 
-All models are available for free download as **OBJ** and **STL** for scientific development and further research. Use them, iterate on them, and build something better.
+All models are available for free download as **.F3z** (for Fusion 360) and **STL** for scientific development and further research. Use them, iterate on them, and build something better.
+
+Currently, only marks 7 and 10, the main in-pipe and cap sampler are availible. I will soon update with the rest of the models and include .STEP files as well. 
 
 ---
 
